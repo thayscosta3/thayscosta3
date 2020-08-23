@@ -2,6 +2,8 @@
 
 Hi, I'm Thays, the girl in the pic beside! 👈 And now we’re free from the curse, you can *follow the blind* at links below! 🧙‍🖤 <br></br>
 
+<p align="center">
+  
 <a target="_blank" href="https://www.linkedin.com/in/m-thays-costa/">
   <img align="middle" alt="LinkedIN" width="38px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
 </a>
@@ -18,7 +20,7 @@ Hi, I'm Thays, the girl in the pic beside! 👈 And now we’re free from the cu
   <img align="middle" alt="E-mail" width="38px" src="https://image.flaticon.com/icons/svg/95/95627.svg" /><br>
 </a>
 <img align="right" alt="GIF" src="https://cdn.arstechnica.net/wp-content/uploads/2017/04/dbtDDSvWErdf2.gif" />
-
+</p>
 </br>
 
 
