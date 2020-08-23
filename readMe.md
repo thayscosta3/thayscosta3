@@ -35,17 +35,16 @@ I'm **excited to explore this whole new worlds** until the final frontier, in th
 <code><img height="38" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"/></code>
 <code><img height="38" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Java Script"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
-<code><img height="38" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux"/></code>
 <code><img height="38" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"/></code>
+<code><img height="38" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
+### Stats <br>
 <a href="https://github.com/thayscosta3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayscosta3&theme=radical&hide=glsl,python" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayscosta3&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-**Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=thayscosta3&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Thays Costa's GitHub Stats" />
+<img  align="right" src="https://github-readme-stats.vercel.app/api?username=thayscosta3&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Thays Costa's GitHub Stats" />
 
 
 
