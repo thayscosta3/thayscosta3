@@ -1,6 +1,6 @@
 ### < Hello World! 🖖 > </br>
 
-Hi, I'm Thays, the girl in the pic beside! 👈 And now we’re free from the curse, you can *follow the blind* at links below! 🧙‍🖤 <br></br>
+I'm Thays, the girl in the pic beside! 👈 And now we’re free from the curse, you can *follow the blind* at links below! 🧙‍🖤 <br></br>
 
 <p align="left">
   
@@ -19,6 +19,8 @@ Hi, I'm Thays, the girl in the pic beside! 👈 And now we’re free from the cu
 <a target="_blank" href="mailto:thayscosta3@gmail.com">
   <img align="middle" alt="E-mail" width="38px" src="https://image.flaticon.com/icons/svg/95/95627.svg" /><br>
 </a>
+<br>
+
 <img align="right" alt="GIF" src="https://66.media.tumblr.com/38d1757e25bf6e7e7b632910d7ad55bc/tumblr_n5opgbx7221rlq8k2o1_500.gif" />
 </p>
 </br>
@@ -27,6 +29,18 @@ Hi, I'm Thays, the girl in the pic beside! 👈 And now we’re free from the cu
 I am a **brazilian web development student**, crazy about **books & comicbooks** 📚 💭 and **heavy metal music**.🤘 In my free time, I love to **read and write** about my readings, watch **movies or series** 📺 🧛‍  and listen to music, specially **metal and it’s subgenres** 🎶🤘 
 </br><br>
 I'm **excited to explore this whole new worlds** until the final frontier, in the continuing mission to explore strange new worlds. To seek out new life and new civilizations. **To boldly go where no one has gone before!** *Ops, I guess these are the voyages of the starship Enterprise.* But anyway, I feel like a explorer and I intent to reach some new worlds too! <img width="22px" src="https://media1.giphy.com/media/dJezVlwfVulTykjRQj/giphy.gif" alt="gif de um foguete"><br>
+
+### Languages and Tools:  
+
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<a href="https://github.com/thayscosta3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayscosta3&theme=radical&hide=glsl,python" />
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=thayscosta3&&show_icons=true&theme=radical&line_height=27&v=5" alt="Thays Costa's GitHub Stats" />
 
 
 
