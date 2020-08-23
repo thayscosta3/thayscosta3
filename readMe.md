@@ -3,19 +3,19 @@
 Hi, I'm Thays, the girl in the pic beside! 👈 And now we’re free from the curse, you can *follow the blind* at links below! 🧙‍🖤 <br></br>
 
 <a target="_blank" href="https://www.linkedin.com/in/m-thays-costa/">
-  <img align="center" alt="LinkedIN" width="38px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
+  <img align="middle" alt="LinkedIN" width="38px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
 </a>
 
 <a target="_blank" href="https://www.instagram.com/missentropia_/?hl=pt-br">
-  <img align="center" alt="Instagram" width="38px" src="https://image.flaticon.com/icons/svg/1384/1384015.svg" />
+  <img align="middle" alt="Instagram" width="38px" src="https://image.flaticon.com/icons/svg/1384/1384015.svg" />
 </a>
 
 <a target="_blank" href="https://open.spotify.com/user/12173725478">
-  <img align="center" alt="Spotify" width="38px" src="https://image.flaticon.com/icons/svg/49/49097.svg" />
+  <img align="middle" alt="Spotify" width="38px" src="https://image.flaticon.com/icons/svg/49/49097.svg" />
 </a>
 
 <a target="_blank" href="mailto:thayscosta3@gmail.com">
-  <img align="center" alt="E-mail" width="38px" src="https://image.flaticon.com/icons/svg/95/95627.svg" /><br>
+  <img align="middle" alt="E-mail" width="38px" src="https://image.flaticon.com/icons/svg/95/95627.svg" /><br>
 </a>
 
 
