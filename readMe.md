@@ -38,6 +38,7 @@ I'm **excited to explore this whole new worlds** until the final frontier, in th
 <code><img height="38" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"/></code>
 <code><img height="38" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="38" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" alt="react"></code>
 
 ### Stats <br>
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=thayscosta3&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Thays Costa's GitHub Stats" />
