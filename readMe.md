@@ -21,7 +21,7 @@ I'm Thays, the girl in the pic beside! 👈 And now we’re free from the curse,
 </a>
 <br>
 
-<img align="right" alt="GIF" src="https://66.media.tumblr.com/38d1757e25bf6e7e7b632910d7ad55bc/tumblr_n5opgbx7221rlq8k2o1_500.gif" />
+<img align="right" alt="my octocat" width="500px" src="https://github.com/thayscosta3/thayscosta3/blob/master/my-octocat.png?raw=true" />
 </p>
 </br>
 
