@@ -32,11 +32,11 @@ I'm **excited to explore this whole new worlds** until the final frontier, in th
 
 ### Languages and Tools:  
 
-<code><img height="38" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"/></code>
-<code><img height="38" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"/></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Java Script"></code>
-<code><img height="38" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"/></code>
-<code><img height="38" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux"/></code>
+<code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" alt="html5"/></code>
+<code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" alt="css3"/></code>
+<code><img height="38" src="https://www.devexhub.com/wp-content/uploads/2019/12/javascript-icon-png-23.png" alt="Java Script"></code>
+<code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" alt="git"/></code>
+<code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/3525127881551941184-512.png" alt="linux"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="38" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" alt="react"></code>
 
