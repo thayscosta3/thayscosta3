@@ -46,11 +46,11 @@ I'm **excited to explore this whole new worlds** until the final frontier, in th
 
 ### Stats
 
-<a href="https://github.com/thayscosta3">
+<a target="_blank" href="https://github.com/thayscosta3">
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=thayscosta3&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" />
 </a>
 
-<a href="https://github.com/thayscosta3">
+<a target="_blank" href="https://github.com/thayscosta3">
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayscosta3&layout=compact&show_icons=true&hide_border=true&theme=dark&langs_count=10" />
 </a>
 
