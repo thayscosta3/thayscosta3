@@ -24,7 +24,7 @@ I'm Thays, the girl in the pic beside! 👈 And now we’re free from the curse,
 <img align="right" alt="my octocat" width="450px" src="./images/octocat.png" />
 </p>
 
-I am a **brazilian web development student**, crazy about **books & comicbooks** 📚 💭 and **heavy metal music**.🤘 In my free time, I love to **read and write** about my readings, watch **movies or series** 📺 🧛‍  and listen to music, specially **metal and it’s subgenres** 🎶🤘 
+I am a **brazilian web developer**, crazy about **books & comicbooks** 📚 💭 and **heavy metal music**.🤘 In my free time, I love to **read and write** about my readings, watch **movies or series** 📺 🧛‍  and listen to music, specially **metal and it’s subgenres** 🎶🤘 
 </br><br>
 I'm **excited to explore this whole new worlds** until the final frontier, in the continuing mission to explore strange new worlds. To seek out new life and new civilizations. **To boldly go where no one has gone before!** *Ops, I guess these are the voyages of the starship Enterprise.* But anyway, I feel like a explorer and I intent to reach some new worlds too! <img width="22px" src="https://media1.giphy.com/media/dJezVlwfVulTykjRQj/giphy.gif" alt="gif de um foguete"><br>
 
